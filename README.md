@@ -29,6 +29,6 @@ N/A
 ## Related Products
 * [Introduction To Data Science Using R Programming [Video]](https://www.packtpub.com/big-data-and-business-intelligence/introduction-data-science-using-r-programming-video)
 
-* [R Programming Fundamentals](https://www2.packtpub.com/big-data-and-business-intelligence/r-programming-fundamentals-0)
+* [R Programming Fundamentals](https://www.packtpub.com/big-data-and-business-intelligence/r-programming-fundamentals-0)
 
 * [R Programming for Statistics and Data Science [Video]](https://www.packtpub.com/big-data-and-business-intelligence/r-programming-statistics-and-data-science-video)
